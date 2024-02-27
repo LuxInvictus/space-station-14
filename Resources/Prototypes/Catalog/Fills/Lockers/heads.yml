@@ -231,6 +231,8 @@
       - id: BoxEncryptionKeyScience
       - id: ClothingHeadsetAltScience
       - id: EncryptionKeyBinary
+      - id: AnomalyScanner
+      - id: NodeScanner
 
 - type: entity
   id: LockerResearchDirectorFilled
@@ -249,6 +251,8 @@
       - id: BoxEncryptionKeyScience
       - id: ClothingHeadsetAltScience
       - id: EncryptionKeyBinary
+      - id: AnomalyScanner
+      - id: NodeScanner
 
 - type: entity
   id: LockerHeadOfSecurityFilledHardsuit
